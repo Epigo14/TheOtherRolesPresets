@@ -8,11 +8,11 @@ Just unzip the file and override yours with it.
 Download [here](https://github.com/Epigo14/TheOtherRolesPresets/files/6359911/me.eisbison.theotherroles.cfg.zip).
 
 # Presets
-<b>Random nerfed roles</b>__
-<b>Make tricks, not love</b>__
-<b>Call of the jackal</b>__
-<b>Biting rat and grey rewinds</b>__
-<b>Purge or infiltrate?</b>__
+<b>Random nerfed roles</b>  
+<b>Make tricks, not love</b>  
+<b>Call of the jackal</b>  
+<b>Biting rat and grey rewinds</b>  
+<b>Purge or infiltrate?</b>  
 
 # Why?
 The mod introduced a lot of new and fun gameplays. However, randomness, role-based full clears and instant busts often replace investigations.
