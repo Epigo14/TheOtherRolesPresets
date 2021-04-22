@@ -20,8 +20,8 @@ Eraser vs. Jackal + Sidekick vs. Crew.
 <b>Biting rat and grey rewinds</b>  
 Vampire + Camouflager vs. Crew  
   
-<b>Purge or infiltrate?</b>  
-Eraser + Cleaner vs. Crew  
+<b>Disguised Purge</b>  
+Morphling + Cleaner vs. Crew  
   
 # Why?
 The mod introduced a lot of new and fun gameplays. However, randomness, role-based full clears and instant busts often replace investigations.
