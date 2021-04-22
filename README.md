@@ -9,8 +9,12 @@ Download [here](https://github.com/Epigo14/TheOtherRolesPresets/files/6359911/me
 
 # Presets
 <b>Random nerfed roles</b>  
+All the roles except for Snitch and Jackal.
 <b>Make tricks, not love</b>  
+
 <b>Call of the jackal</b>  
+Eraser vs. Jackal+Sidekick vs. Crew.  
+The Eraser sees a Spy which they shouldn't kill early. 
 <b>Biting rat and grey rewinds</b>  
 <b>Purge or infiltrate?</b>  
 
