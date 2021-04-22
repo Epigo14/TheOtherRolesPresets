@@ -1,4 +1,7 @@
-# TheOtherRoles Presets
+[banner](https://user-images.githubusercontent.com/83012422/115780658-b53ec880-a3b9-11eb-829a-50ff5df412db.png)
+
+# TheOtherRoles Presets!
+
 Presets for the Among Us mod <a href= https://github.com/Eisbison/TheOtherRoles>TheOtherRoles</a>.
 Since v2.0.0, presets can be saved and imported into higher versions.
 The file is named <b>me.eisbison.theotherroles.cfg</b> and is stored in the <i>BepInEx</i> folder and its subfolder <i>config</i> (<tt>~\TheOtherRoles\BepInEx\config\me.eisbison.theotherroles.cfg</tt>).
