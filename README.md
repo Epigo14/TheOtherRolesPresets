@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/83012422/115780658-b53ec880-a3b9-11eb-829a-50ff5df412db.png)
 
-# TheOtherRoles Presets!
+# TheOtherRoles Presets
 
 Presets for the Among Us mod <a href= https://github.com/Eisbison/TheOtherRoles>TheOtherRoles</a>.
 Since v2.0.0, presets can be saved and imported into higher versions.
