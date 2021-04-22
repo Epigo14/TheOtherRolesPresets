@@ -9,15 +9,20 @@ Download [here](https://github.com/Epigo14/TheOtherRolesPresets/files/6359911/me
 
 # Presets
 <b>Random nerfed roles</b>  
-All the roles except for Snitch and Jackal.
+All roles except for Snitch, Jackal and Mafia.
+  
 <b>Make tricks, not love</b>  
-
+Trickster + ImpLover vs. Jester vs. Crew.  
+  
 <b>Call of the jackal</b>  
-Eraser vs. Jackal+Sidekick vs. Crew.  
-The Eraser sees a Spy which they shouldn't kill early. 
+Eraser vs. Jackal + Sidekick vs. Crew.  
+   
 <b>Biting rat and grey rewinds</b>  
+Vampire + Camouflager vs. Crew  
+  
 <b>Purge or infiltrate?</b>  
-
+Eraser + Cleaner vs. Crew  
+  
 # Why?
 The mod introduced a lot of new and fun gameplays. However, randomness, role-based full clears and instant busts often replace investigations.
 Among Us was desidgned as a social deduction game and while playing TheOtherRoles, meetings often deal with role reveals instead of finding the imposters.
